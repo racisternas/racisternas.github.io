@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:44E319B7-C5FD-4320-AE67-281580F7AD67</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-01-01T12:45:24-08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D462E796-7B1E-4D15-978E-5EDD9C9F1407</id>
+  <title>Holiday-Newsletter--2013</title>
+  <title xmlns="urn:iweb:">Holiday-Newsletter--2013</title>
+  <in-navbar xmlns="urn:iweb:">D462E796-7B1E-4D15-978E-5EDD9C9F1407</in-navbar>
+  <link rel="alternate" href="Holiday-Newsletter-2013.html"/>
+  <updated>2014-01-01T12:45:24.001-08:00</updated>
+  <content>Holiday-Newsletter--2013</content>
+ </entry>
+</feed>
