@@ -1,5 +1,5 @@
 .paragraph_style {
-    color: rgb(78, 29, 1);
+    color: rgb(78, 29, 2);
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 16px;
     font-stretch: normal;
@@ -21,7 +21,7 @@
     text-transform: none;
 }
 .paragraph_style_1 {
-    color: rgb(78, 29, 1);
+    color: rgb(78, 29, 2);
     font-family: 'Baskerville-SemiBold', 'Baskerville', 'Times New Roman', serif;
     font-size: 54px;
     font-stretch: normal;
@@ -62,7 +62,7 @@
     opacity: 1.00;
 }
 .Body {
-    color: rgb(78, 29, 1);
+    color: rgb(78, 29, 2);
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;
     font-size: 13px;
     font-stretch: normal;
