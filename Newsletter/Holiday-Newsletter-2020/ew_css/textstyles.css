@@ -39,3 +39,12 @@ a.outerlink{text-decoration:none}
  font-style: italic;
  color: #1E1B25;
  word-wrap: break-word;}
+.Style15{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 54px; 
+ font-weight:700; 
+ color: #4D1C01;
+ word-wrap: break-word;}
+.Style16{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 24px; 
+ color: #4D1C01;
+ word-wrap: break-word;}
