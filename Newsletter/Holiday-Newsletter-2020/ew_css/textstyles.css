@@ -26,3 +26,16 @@
 a.outerlink{text-decoration:none}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
+.Style12{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 24px; 
+ font-weight:600; 
+ color: #CE7112;
+ word-wrap: break-word;}
+.Style13{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 12px; 
+ word-wrap: break-word;}
+.Style14{font-family:  'Baskerville-Italic', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 24px; 
+ font-style: italic;
+ color: #1E1B25;
+ word-wrap: break-word;}
