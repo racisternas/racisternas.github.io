@@ -36,3 +36,8 @@ a.outerlink{text-decoration:none}
  word-wrap: break-word;}
 .linkStyle_10:visited{color:#FEFB00; text-decoration:underline;}
 .linkStyle_10:hover{color:#FF2600; text-decoration:underline;}
+.Style13{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 16px; 
+ font-weight:normal; 
+ color: #383838;
+ word-wrap: break-word;}
