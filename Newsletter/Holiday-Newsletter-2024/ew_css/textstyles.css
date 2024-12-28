@@ -4,67 +4,47 @@
  font-weight:700; 
  color: #DB6A48;
  word-wrap: break-word;}
-.Style3{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
- font-size: 24px; 
- font-weight:600; 
- color: #DB6A47;
- word-wrap: break-word;}
-.Style4{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.Style3{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 16px; 
  font-weight:normal; 
  color: #1C1B25;
+ word-wrap: break-word;}
+.Style4{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 24px; 
+ font-weight:600; 
+ color: #DB6A47;
  word-wrap: break-word;}
 .Style5{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
- font-size: 24px; 
- font-weight:600; 
- margin:0;
- color: #DB6A47;
- word-wrap: break-word;}
-.Style6{font-family:  'Baskerville-Bold', 'Baskerville' ,'Times New Roman' ,serif ;
- font-size: 16px; 
- font-weight:700; 
- color: #1C1B25;
- word-wrap: break-word;}
-.Style7{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
- font-size: 12px; 
- font-weight:normal; 
- word-wrap: break-word;}
-.Style8{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
- font-size: 16px; 
- font-weight:normal; 
- margin:0;
- color: #1C1B25;
- word-wrap: break-word;}
-.Style9{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
- font-size: 16px; 
- font-weight:normal; 
- color: #383838;
- word-wrap: break-word;}
-.Style10{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 36px; 
  font-weight:600; 
  color: #CE7112;
  word-wrap: break-word;}
-.Style11{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+.Style6{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 16px; 
+ font-weight:normal; 
+ margin:0;
+ color: #1C1B25;
+ word-wrap: break-word;}
+.Style7{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 54px; 
  font-weight:700; 
  color: #4D1C01;
  word-wrap: break-word;}
-.para12{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
-.Style13{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.para8{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style9{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 24px; 
  font-weight:normal; 
  color: #4D1C01;
  word-wrap: break-word;}
-a.outerlink{text-decoration:none}
-.animhidden{opacity: 0}
-.animvisible{opacity: 1}
-.Style17{font-family:  'Baskerville-Bold', 'Baskerville' ,'Times New Roman' ,serif ;
+.Style10{font-family:  'Baskerville-Bold', 'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 18px; 
  font-weight:700; 
  color: #1C1B25;
  word-wrap: break-word;}
-.Style18{font-family:  'Arial' ,sans-serif ;
+.Style11{font-family:  'Arial' ,sans-serif ;
  font-size: 12px; 
  font-weight:normal; 
  word-wrap: break-word;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
