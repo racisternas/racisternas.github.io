@@ -1,0 +1,50 @@
+.para1{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style2{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 54px; 
+ font-weight:700; 
+ color: #DB6A48;
+ word-wrap: break-word;}
+.Style3{font-family:  'Baskerville-Bold', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 18px; 
+ font-weight:700; 
+ color: #1C1B25;
+ word-wrap: break-word;}
+.Style4{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 24px; 
+ font-weight:600; 
+ color: #DB6A47;
+ word-wrap: break-word;}
+.Style5{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 16px; 
+ font-weight:normal; 
+ color: #1C1B25;
+ word-wrap: break-word;}
+.Style6{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 16px; 
+ font-weight:normal; 
+ margin:0;
+ color: #1C1B25;
+ word-wrap: break-word;}
+.para7{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style8{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 16px; 
+ font-weight:normal; 
+ word-wrap: break-word;}
+.Style9{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 16px; 
+ font-weight:normal; 
+ margin:0;
+ word-wrap: break-word;}
+.Style10{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 54px; 
+ font-weight:700; 
+ color: #4D1C01;
+ word-wrap: break-word;}
+.Style11{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+ font-size: 24px; 
+ font-weight:normal; 
+ color: #4D1C01;
+ word-wrap: break-word;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
