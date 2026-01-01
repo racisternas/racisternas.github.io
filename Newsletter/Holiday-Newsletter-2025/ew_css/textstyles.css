@@ -25,35 +25,22 @@
  margin:0;
  color: #1C1B25;
  word-wrap: break-word;}
-.Style7{font-family:  'Arial' ,sans-serif ;
- font-size: 12px; 
- font-weight:normal; 
- word-wrap: break-word;}
-.linkStyle_8{font-family:  'Arial' ,sans-serif ;
- font-size: 12px; 
- font-weight:normal; 
- color: #0432FF;
- text-decoration: underline; 
- /* 0 0 0 #CBCBCB #942092 #FF2600 */
- word-wrap: break-word;}
-.linkStyle_8:visited{color:#FEFB00; text-decoration:underline;}
-.linkStyle_8:hover{color:#FF2600; text-decoration:underline;}
-.para11{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
-.Style12{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.para7{font-size: 0; text-align:left; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style8{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 16px; 
  font-weight:normal; 
  word-wrap: break-word;}
-.Style13{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.Style9{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 16px; 
  font-weight:normal; 
  margin:0;
  word-wrap: break-word;}
-.Style14{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
+.Style10{font-family:  'Baskerville-SemiBold', 'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 54px; 
  font-weight:700; 
  color: #4D1C01;
  word-wrap: break-word;}
-.Style15{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
+.Style11{font-family:  'Baskerville' ,'Times New Roman' ,serif ;
  font-size: 24px; 
  font-weight:normal; 
  color: #4D1C01;
